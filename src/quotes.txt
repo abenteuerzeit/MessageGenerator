@@ -1,0 +1,510 @@
+0|­Martha Mayer Erlebacher|American painter|Art is the<br>greatest possible<br>rationalization of our<br>deepest fears, joys,<br>and instincts as<br>human beings.
+1|Amy Lowell|American poet|Art is the desire of a man to express<br>himself, to record the reactions of his<br>personality to the world he lives in.
+2|Ben Shahn|Lithuanian-American artist|I believe that if it were left to artists to choose<br>their own labels, most would choose none.
+3|Aristophanes|ancient Greek playwright|Let each man exercise the art he knows.
+4|Coco Chanel|French fashion designer|When I can no longer create anything,<br>I’ll be done for.
+5|Edgar Degas|French artist|Art is not what you see,<br>but what you make others see.
+6|Auguste Rodin|French sculptor|To any artist, worthy of the name, all in nature is beautiful, because his eyes, fearlessly accepting all exterior truth, read there, as in an open book, all the inner truth.
+7|Pablo Picasso|Spanish artist|God is really only another artist. He invented the giraffe, the elephant, and the cat. He has no real style. He just keeps on trying other things.
+8|Federico Fellini|Italian director|I don’t believe in total freedom for the artist. Left on his own, free to do anything he likes, the artist ends up doing nothing at all. If there’s one thing that’s dangerous for an artist, it’s precisely this question of total freedom, waiting for inspiration and all the rest of it.
+9|Oscar Wilde|Irish writer|The critic has to educate the public<br>the artist has to educate the critic.
+10|Leo Tolstoy|Russian writer|Art is not a handicraft it is the transmission<br>of feeling the artist has experienced.
+11|Ralph Waldo Emerson|American writer|Every artist was first an amateur.
+12|Auguste Rodin|French sculptor|The artist is the confidant of nature flowers carry on dialogues with him through the graceful bending of their stems and the harmoniously tinted nuances of their blossoms. Every flower has a cordial word, which nature directs towards him.
+13|Henri Matisse|French artist|What I dream of is an art of balance.
+14|Beatrice Lillie|Canadian actress|In my experience, anyone can<br>paint if he doesn’t have to.
+15|Isak Dinesen|Danish writer|Through all the world there goes one<br>long cry from the heart of the artist:<br>Give me leave to do my utmost.
+16|Jackson Pollock|American painter|The painting has a life of its own.<br>I try to let it come through.
+17|Miguel de Cervantes|Spanish writer|I say that good painters imitated nature,<br>but that bad ones vomited it.
+18|Paul Gauguin|French artist|Art is either plagiarism or revolution.
+19|Frida Kahlo|Mexican painter|I paint my own reality<br>The only thing I know is that<br>I paint because I need to,<br>and I paint whatever passes<br>through my head without any<br>other consideration.
+20|Piet Mondrian|Dutch painter|The position of the artist is humble.<br>He is essentially a channel.
+21|Frank Zappa|American musician|Art is making something out of nothing and selling it.
+22|H. L. Mencken|American writer|The artist is not a reporter, but a Great<br>Teacher. It is not his business to depict<br>the world as it is, but as it ought to be.
+23|Pablo Picasso|Spanish artist|Every child is an artist. The problem is how<br>to remain an artist once he grows up.
+24|Anton Chekhov|Russian writer|An artist observes, selects,<br>guesses, and synthesizes.
+25|Henri Matisse|French artist|I don’t paint things. I only paint the<br>difference between things.
+26|Ben Shahn|Lithuanian-American artist|An amateur is someone who supports<br>himself with outside jobs, which enable<br>him to paint. A professional is someone<br>whose wife works to enable him to paint.
+27|Camille Pissarro|French painter|Blessed are they who see beautiful things in<br>humble places where other people see nothing.
+28|Edgar Degas|French artist|Only when he no longer knows what he is<br>doing does the painter do good things.
+29|Emil Nolde|German painter|The artist need not know very much best<br>of all let him work instinctively and paint<br>as naturally as he breathes or walks.
+30|Émile Zola|French writer|I am an artist … I am here to live out loud.
+31|Ezra Pound|American-born writer|The artist is the antenna of the race.
+32|Eugène Delacroix|French artist|Artists who seek perfection in everything are<br>those who cannot attain it in anything.
+33|Émile Zola|French writer|There are two men inside the artist, the<br>poet and the craftsman. One is born a<br>poet. One becomes a craftsman.
+34|Émile Zola|French writer|The artist is nothing without the gift,<br>but the gift is nothing without work.
+35|Paulo Coelho|Brazilian writerl|We all have the ability … we just don’t<br>all have the courage to follow our<br>dreams and to follow the signs.
+36|Frank Lloyd Wright|American architect|You can’t make an architect. But you can open the doors and windows toward the light as you see it.
+37|Curtis Verdun|American painter|If art was defined simply by the ability<br>to draw, then my inkjet printer would be<br>a greater artist than Michelangelo.
+38|Wassily Kandinsky|Russian painter|The artist must train not only<br>his eye, but also his soul.
+39|Claes Oldenburg|American sculptor|If I didn’t think what I was doing had<br>something to do with enlarging the<br>boundaries of art, I wouldn’t go on doing it.
+40|Leonardo da Vinci|Italian artist|A good painter has two main objects to paint, man and the intention of his soul. The former is easy, the latter hard, as he has to represent it by the attitude and movement of the limbs.
+41|André Gide|French writer|Art is a collaboration<br>between God and the artist,<br>and the less the artist<br>does, the better.
+42|Auguste Rodin|French sculptor|To the artist there is never<br>anything ugly in nature.
+43|Auguste Rodin|French sculptor|The artist must create a spark before he<br>can make a fire, and before art is born,<br>the artist must be ready to be consumed<br>by the fire of his own creation.
+44|James McNeill Whistler|American painter|An artist is not paid for his labor but for his vision.
+45|Thomas Eakins|American painter|The big artist … keeps an eye on<br>nature and steals her tools.
+46|Vincent van Gogh|Dutch painter|An artist needn’t be a clergyman or a<br>churchwarden, but he certainly must<br>have a warm heart for his fellow men.
+47|Vincent van Gogh|Dutch painter|I tell you, the more I think, the more<br>I feel that there is nothing more truly<br>artistic than to love people.
+48|Paul Klee|German-Swiss painter|I paint in order not to cry.
+49|André Gide|French writer|Great authors are admirable in this<br>respect: in every generation they make<br>for disagreement. Through them we<br>become aware of our differences.
+50|Konstantin Stanislavsky|Russian actor|Love the art in yourself, not yourself in the art.
+51|Frank Stella|Italian-American artist|You see what you know!
+52|Winslow Homer|American painter|There is no such thing as talent. What they<br>call talent is nothing but the capacity for<br>doing continuous work in the right way.
+53|Edgar Degas|French artist|Painting is easy for those that do not know<br>how, but very difficult for those that do!
+54|Pablo Picasso|Spanish artist|The world today doesn’t make sense, so<br>why should I paint pictures that do?
+55|William Faulkner|American writer|The aim of every artist is to arrest motion, which is life, by artificial means and hold it fixed so that a hundred years later, when a stranger looks at it, it moves again since it is life.
+56|Robert Schumann|German composer|To send light into the darkness of men’s<br>hearts—such is the duty of the artist.
+57|Pablo Picasso|Spanish artist|We all know that Art is not truth. Art is a lie that makes us realize truth, at least the truth that is given us to understand. The artist must know the manner whereby to convince others of the truthfulness of his lies.
+58|Paul Strand|American photographer|The artist’s world is limitless. It can be found<br>anywhere, far from where he lives or a few<br>feet away. It is always on his doorstep.
+59|Oscar Wilde|Irish writer|Every portrait that is painted with feeling is<br>a portrait of the artist, not of the sitter.
+60|Henry Moore|English sculptor|It is a mistake for a sculptor or a painter to<br>speak or write very often about his job. It<br>releases tension needed for his work.
+61|Henry Miller|American playwright|The artist is the opposite of the politically minded individual, the opposite of the reformer, the opposite of the idealist. The artist does not tinker with the universe he re-creates it out of his own experience and understanding of life.
+62|Oscar Wilde|Irish writer|No great artist ever sees things as they really<br>are. If he did, he would cease to be an artist.
+63|George Santayana|Spanish writer|An artist is a dreamer consenting<br>to dream of the actual world.
+64|James McNeill Whistler|American painter|An artist’s career always begins tomorrow.
+65|Pablo Picasso|Spanish artist|The artist is a receptacle for the emotions that come from all over the place: from the sky, from the earth, from a scrap of paper, from a passing shape, from a spider’s web.
+66|André Malraux|French writer|The true painter strives to paint what<br>can only be seen through his world.
+67|Jean Cocteau|French writer|An artist cannot talk about his art any more<br>than a plant can discuss horticulture.
+68|William McElcheran|Canadian sculptor|For the mystic what is how. For the craftsman<br>how is what. For the artist what and how are one.
+69|George Moore|Irish writer|A great artist is always before his time or behind it.
+70|Guillaume Apollinaire|French writer|Artists are<br>above all, men who want to<br>become inhuman.
+71|W. H. Auden|Anglo-American poet|All works of art are commissioned in the sense that no artist can create one by a simple act of will but must wait until what he believes to be a good idea for a work comes to him.
+72|Ludwig van Beethoven|German composer|Artists are fiery they do not weep\!
+73|George Bellows|American painter|The artist is the person who makes life<br>more interesting or beautiful, more<br>understandable or mysterious, or probably,<br>in the best sense, more wonderful.
+74|Eleanor Blair|American artist|We artists are the first to see the light at<br>the end of the chaotic tunnels we all live<br>in, and we dare to move toward it.
+75|Pierre Berton|Canadian writer|The nation is bound together by its creative<br>artists and not by parallel lines of rusting steel.
+76|George Buytendorp|Canadian artist|An artist is like a prophet. He must lead people<br>and help them get acquainted with what he sees.
+77|Anton Chekhov|Russian writer|He who desires nothing, hopes for nothing,<br>and is afraid of nothing, cannot be an artist.
+78|Robert Henri|American painter|When the artist is alive in any person … he becomes an inventive, searching, daring, self-expressing creature. He becomes interesting to other people. He disturbs, upsets, enlightens, and he opens ways for better understanding.
+79|Cristina Acosta|American artist|As artists we are manifesting thought<br>into reality every time we create.
+80|Jack Dickerson|American painter|Artists express their own soul through their<br>paintings. It is, perhaps, an affirmation of<br>who we really are—as art rarely lies.
+81|Ralph Waldo Emerson|American writer|The artists must be sacrificed to their<br>art. Like the bees, they must put their<br>lives into the sting they give.
+82|Al Hirschfeld|American artist|Artists are just children who refuse<br>to put down their crayons.
+83|Duke Ellington|American musician|The artist<br>must say it without saying it.
+84|William Faulkner|American writer|An artist is a creature driven by demons—<br>he usually doesn’t know why they chose him<br>and he’s usually too busy to wonder why.
+85|Anish Kapoor|Indian-English sculptor|Artists don’t make objects.<br>Artists make mythologies.
+86|Paul Gauguin|French artist|The great artist is a formulation of the greatest intelligence: he is the recipient of sensations which are the most delicate and consequently the most invisible expressions of the brain.
+87|Sandra Taylor Hedges|Canadian artist|The main difference between the average person and the “Artist” is the focused drive. An Artist is driven sometimes to the exclusion of all else … often has to be reminded to join the rest of the world once in a while.
+88|Aldous Huxley|English writer|Every significant artist is a metaphysician, a<br>propounder of beauty-truths and form-theories.
+89|Akira Kurosawa|Japanese filmmaker|To be an artist means never to avert one’s eyes.
+90|Stephen Aitken|American artist|What is a sketch but a moment’s<br>passion, searching for the truth.
+91|Mary Cassatt|American painter|If painting is no longer needed, it seems a<br>pity that some of us are born into the world<br>with such a passion for line and color.
+92|Jane Champagne|Canadian painter|The passion … is transmuted during the<br>act of painting from rage to euphoria.
+93|Ralph Waldo Emerson|American writer|Passion, though a bad regulator,<br>is a powerful spring.
+94|Ann Dettmer|American painter|Through some memory, feeling, experience,<br>the passion wells up and spills into my<br>palette it mixes with my paint. And the paint<br>tells me what to do. I listen. I act on it.
+95|John Ferrie|Canadian artist|Whether you are painting or singing or acting<br>or dancing, do it with passion, do it every day,<br>and do it like you don’t need the money.
+96|Jeffrey Breslow|American sculptor|The creation of art is the passion. The completion<br>of art only ignites another creation.
+97|Eric Frantz|American artist|Sometimes there are rare golden moments, moments of bliss and dreamlike poetry … That’s what gives me my passion and the fuel I need to continue moving paint across a fresh, waiting canvas.
+98|Roger Fry|English artist and critic|Art is a passion or it is nothing.
+99|Henri Matisse|French artist|Expression is not a matter of passion<br>mirrored on the human face or revealed<br>by a violent gesture. When I paint a<br>picture, its every detail is expressive.
+100|Henry Miller|American playwright|It’s a curse. Yes, it’s a flame. It owns you. It has<br>possession over you. You are not the master<br>of yourself. You are consumed by this thing.
+101|Raymond Chandler|American writer|Technique alone is never enough. You<br>have to have passion. Technique alone<br>is just an embroidered potholder.
+102|Barnett Newman|American artist|Painting, like passion, is a living voice.
+103|George Bernard Shaw|Irish playwright|Imagination<br>is the beginning of creation.<br>You imagine what you desire<br>you will what you imagine<br>and at last you create what you will.
+104|Edward Hopper|American painter|No amount of skillful invention can replace<br>the essential element of imagination.
+105|Louise Nevelson|American sculptor|Art is everywhere, except it has to<br>pass through a creative mind.
+106|Pierre-Auguste Renoir|French painter|The work of art must seize upon you, wrap you up in itself, and carry you away. It is the means by which the artist conveys his passion. It is the current which he puts forth, which sweeps you along in his passion.
+107|Robert Motherwell|American painter|If you can’t find your inspiration by<br>walking around the block one time, go<br>around two blocks—but never three.
+108|Henri Matisse|French artist|What I dream of is an art of equilibrium,<br>purity, and tranquility, devoid of upsetting<br>or troubling subject matter ...
+109|Marc Chagall|Russian-French artist|Art must be an expression of love or it is nothing.
+110|Eugène Delacroix|French artist|The source of genius is imagination alone,<br>the refinement of the senses that sees what<br>others do not see, or sees them differently.
+111|Paul Cézanne|French artist|A work of art which did not begin<br>in emotion is not art.
+112|Paul Gauguin|French artist|I shut my eyes in order to see.
+113|Paul Cézanne|French artist|Painting from nature is not copying the<br>object it is realizing one’s sensations.
+114|Ralph Waldo Emerson|American writer|In art the hand can never execute anything<br>higher than the heart can inspire.
+115|Vincent van Gogh|Dutch painter|I put my heart and my soul into my work,<br>and have lost my mind in the process.
+116|Georgia O’Keeffe|American painter|I found I could say things with color<br>and shapes that I couldn’t say any other<br>way—things I had no words for.
+117|Pablo Picasso|Spanish artist|It takes a very long time to become young.
+118|Friedrich Nietzsche|German writer and philosopher|And those who were seen dancing were thought to<br>be insane by those who could not hear the music.
+119|Wassily Kandinsky|Russian painter|An empty canvas is a living wonder …<br>far lovelier than certain pictures.
+120|Pablo Picasso|Spanish artist|Everyone wants to understand<br>painting. Why is there no attempt to<br>understand the song of the birds?
+121|Pablo Picasso|Spanish artist|Inspiration exists, but it has to find us working.
+122|Virginia Woolf|English writer|Arrange what pieces come your way.
+123|Marcel Proust|French writer|The real voyage of discovery consists not in<br>seeking new landscapes, but in having new eyes.
+124|Mark Twain|American writer|You can’t depend on your eyes when<br>your imagination is out of focus.
+125|Leonardo da Vinci|Italian artist|Where the spirit does not work with<br>the hand, there is no art.
+126|Lucius Annaeus Seneca|ancient Roman dramatist|All art is but imitation of nature.
+127|Salvador Dalí|Spanish painter|Those who do not want to imitate<br>anything, produce nothing.
+128|Jacek Tylicki|Polish-American artist|Art happens all the time, everywhere. All<br>we have to do is to keep our minds open.
+129|Henri Matisse|French artist|There is nothing more difficult for a truly<br>creative painter than to paint a rose, because<br>before he can do so, he has first to forget<br>all the roses that were ever painted.
+130|Frida Kahlo|Mexican painter|They thought I was a Surrealist, but I wasn’t. I<br>never painted dreams. I painted my reality.
+131|M. C. Escher|Dutch artist|What I give form to in daylight is only one<br>percent of what I have seen in darkness.
+132|Oscar Wilde|Irish writer|A subject that is beautiful in itself gives no<br>suggestion to the artist. It lacks imperfection.
+133|Henri-Frédéric Amiel|Swiss poet|Without passion man is a mere latent force and<br>possibility, like the flint which awaits the shock<br>of the iron before it can give forth its spark.
+134|Alvaro Castagnet|Spanish painter|Passion<br>should overwhelm reason<br>time and again.
+135|Paulo Coelho|Brazilian writer|Passion makes a person stop eating, sleeping, working, feeling at peace. A lot of people are frightened because, when it appears, it demolishes all the old things it finds in its path.
+136|Ansel Adams|American photographer|When I’m ready to make a photograph … I quite obviously see in my mind’s eye something that is not literally there … I’m interested in something which is built up from within, rather than just extracted from without.
+137|David Allio|American photographer|Absent imagination and artistic vision, we<br>are blind to the wonders of creation.
+138|Lauren Bacall|American actress|Imagination is the highest kite one can fly.
+139|Miles Davis|American musician|Don’t play what’s there play what’s not there.
+140|Robert Genn|Canadian painter|Artists are supposed to be the ones with<br>imagination. A good part of our job description<br>is to get regular people to use theirs.
+141|Vincent van Gogh|Dutch painter|Do not quench your inspiration and<br>your imagination do not become<br>the slave of your model.
+142|Francisco de Goya|Spanish painter|Imagination abandoned by reason produces impossible monsters united with it, she is the mother of the arts and the source of their wonders.
+143|Baltasar Gracián|Spanish writer|Harness the imagination,<br>for she is the whole of happiness.
+144|Robert Henri|American painter|An artist who has no imagination is a mechanic.
+145|Édouard Manet|French painter|It is not enough to know your craft—you<br>have to have feeling. Science is all very well,<br>but for us imagination is worth far more.
+146|Michelangelo|Italian artist|I saw the angel in the marble and<br>carved until I set him free.
+147|Norman Vincent Peale|American writer|Imagination is the true magic carpet.
+148|Edgar Allan Poe|American writer|Those who dream by day are cognizant<br>of many things which escape those<br>who dream only by night.
+149|Mark Rothko|Russian-American painter|This world of the imagination is fancy-free<br>and violently opposed to common sense.
+150|Pablo Picasso|Spanish artist|Everything<br>you can imagine is real.
+151|Jean-Jacques Rousseau|Swiss writer|The world of reality has its limits the<br>world of imagination is boundless.
+152|Antoine de Saint-Exupéry|French writer|A rock pile ceases to be a rock pile the<br>moment a single man contemplates it, bearing<br>within him the image of a cathedral.
+153|Richard Wagner|German composer|One supreme fact which I have discovered<br>is that it is not willpower, but fantasy-<br>imagination that creates. Imagination is the<br>creative force. Imagination creates reality.
+154|David Smith|American sculptor|If there is truth in art, it is the artist’s<br>own truth. If beauty is involved, it is<br>only the metaphor of imagination.
+155|Henry David Thoreau|American writer|The world is but a canvas to the imagination.
+156|John H. Twachtman|American painter|In my mind I have finer pictures than ever<br>before. Ten thousand pictures come and go<br>every day, and those are the only complete<br>pictures painted, pictures that shall never<br>be polluted by paint and canvas.
+157|Macedonio de la Torre|Peruvian painter|You cannot hear the waterfall if you stand<br>next to it. I paint my jungles in the desert.
+158|Leonardo da Vinci|Italian artist|The idea or the faculty of imagination serves as<br>both rudder and bridle to the senses, inasmuch<br>as the thing imagined moves the sense.
+159|Edith Wharton|American writer|There are moments when a man’s imagination,<br>so easily subdued to what it lives in,<br>suddenly rises above its daily level and<br>surveys the long windings of destiny.
+160|Jamie Wyeth|American artist|I’m not inspired every day I go to the studio, but you’ve got to push yourself. Do it every day and once in a while things will really click. That’s the biggest high you can imagine.
+161|Richard Wagner|German composer|I am convinced that there are universal<br>currents of Divine Thought vibrating the<br>ether everywhere and that any who can<br>feel these vibrations is inspired …
+162|Giorgio Vasari|Italian artist|Inspiration demands the active cooperation of the intellect joined with enthusiasm, and it is under such conditions that marvelous conceptions, with all that is excellent and divine, come into being.
+163|Henry David Thoreau|American writer|Our moments of inspiration are not lost, though we have no particular poem to show for them for those experiences have left an indelible impression, and we are ever and anon reminded of them.
+164|Rabindranath Tagore|Bengali artist|You can’t cross the sea merely by<br>standing and staring at the water.
+165|John Ruskin|English art critic|What distinguishes a great artist from a weak one is first their sensibility and tenderness second, their imagination and third, their industry.
+166|Guy Corriero|American painter|Never leave a painting mediocre it’s<br>better to take a chance with it.
+167|Robert Henri|American painter|Do not worry about your originality. You<br>could not get rid of it even if you wanted to.
+168|Auguste Rodin|French sculptor|The main thing is to be moved, to<br>love, to hope, to tremble, to live.
+169|Georgia O’Keeffe|American painter|To create one’s own world in any<br>of the arts takes courage.
+170|Pierre-Auguste Renoir|French painter|One must from time to time attempt<br>things that are beyond one’s capacity.
+171|Georgia O’Keeffe|American painter|One day seven years ago I found myself saying to myself—I can’t live where I want to—I can’t go where I want to go—I can’t do what I want to—I can’t even say what I want to … I decided I was a very stupid fool not to at least paint as I wanted to.
+172|Ralph Waldo Emerson|American writer|Unless you try to do something beyond what you<br>have already mastered, you will never grow.
+173|Vincent van Gogh|Dutch painter|In spite of everything I shall rise again:<br>I will take up my pencil, which I have<br>forsaken in my great discouragement,<br>and I will go on with my drawing.
+174|Thelonius Monk|American musician|The only cats worth anything are the cats who take chances. Sometimes I play things that I never heard myself.
+175|Jackie Knott|American painter|Rejection<br>is part of the job description<br>for anyone in the arts … one<br>must have a sense of purpose<br>… of where you want to go<br>with your art, and no one<br>decides that but you. Seek<br>relevance instead of approval.
+176|André Gide|French writer|It is better to be hated for what you are<br>than to be loved for what you are not.
+177|Auguste Rodin|French sculptor|Nothing is a waste of time if you<br>use the experience wisely.
+178|Michelangelo|Italian artist|A beautiful thing never gives so much<br>pain as does failing to hear and see it.
+179|Isaac Bashevis Singer|Jewish-American author|Every creator painfully experiences<br>the chasm between his inner vision<br>and its ultimate expression.
+180|Robert Breault|American operatic tenor|Sometimes, to pursue a new idea, the artist<br>must forfeit his deposit on an old idea.
+181|Glenn Close|American actress|All great art comes from a sense of outrage.
+182|George Eliot|English writer|There are many victories worse than a defeat.
+183|Samuel Beckett|Irish writer|To be an artist is to fail, as no other dare fail …<br>failure is his world and to shrink from it<br>desertion …
+184|Jean Cocteau|French writer|Listen carefully to first criticisms made of your work. Note just what it is about your work that critics don’t like—then cultivate it. That’s the only part of your work that’s individual and worth keeping.
+185|Sam Abell|American photographer|Above all, it’s hard learning to live with vivid mental images of scenes I cared for and failed to photograph. It is the edgy existence within me of these unmade images that is the only assurance that the best photographs are yet to be made.
+186|James Allen|English writer|They who have conquered doubt and<br>fear have conquered failure.
+187|Bev Jozwiak|American painter|Rejection can disappoint you, depress you, and may even stop you in your tracks … learn not to take rejection so personally … if you’re honest with yourself and believe in your work, others will too.
+188|Woody Allen|American filmmaker|If you’re not failing every now and again, it’s a<br>sign you’re not doing anything very innovative.
+189|Samuel Beckett|Irish writer|Ever tried? Ever failed? No matter. Try<br>Again. Fail again. Fail better.
+190|Ray Bradbury|American writer|You fail only if you stop …
+191|Robert Browning|English poet|A minute’s success pays the failure of years.
+192|Pearl S. Buck|American writer|Some of the biggest failures I<br>ever had were successes.
+193|Truman Capote|American writer|Failure is the<br>condiment that gives<br>success its flavor.
+194|Anton Chekhov|Russian writer|One must be a god to be able to tell successes<br>from failures without making a mistake.
+195|E. E. Cummings|American poet|An artist, a man, a failure, must proceed.
+196|George Eliot|English writer|I’m proof against that word _failure_. I’ve<br>seen behind it. The only failure a man ought to<br>fear is failure of cleaving to<br>the purpose he sees to be best.
+197|Vincent van Gogh|Dutch painter|Even the knowledge of my own fallibility<br>cannot keep me from making mistakes.<br>Only when I fall do I get up again.
+198|Auguste Rodin|French sculptor|He who is discouraged after a<br>failure is not a real artist.
+199|David Bayles|American photographer|What separates artists from ex-artists<br>is that those who challenge their fears<br>continue those who don’t, quit.
+200|Paulo Coelho|Brazilian writer|Don’t give in to your fears. If you do, you won’t be able to talk to your heart.
+201|Salvador Dalí|Spanish painter|I am the first to be surprised and often terrified<br>by the images that I see appear on my canvas.
+202|Jim Morrison|American musician|Expose yourself to your deepest fear after<br>that, fear has no power, and the fear of<br>freedom shrinks and vanishes. You are free.
+203|Edvard Munch|Norwegian painter|Without fear and illness, I could never<br>have accomplished all I have.
+204|Camille Pissarro|French painter|I sometimes have a horrible fear of turning up a canvas of mine. I’m always afraid of finding a monster in place of the precious jewels I thought I had put there\!
+205|Twyla Tharp|American dancer and choreographer|The only thing I fear more than change<br>is no change. The business of being static<br>makes me nuts.
+206|Robert Genn|Canadian artist|It is necessary to put yourself out for rejection,<br>and accept that you will be rejected.
+207|Melanie Peter|American artist|Fear is the enemy<br>of art. But it’s a misfortune to<br>be in complete control and a<br>gift to feel slightly lost.
+208|Igor Babailov|Russian-American artist|Insecurity prevents young artists from “flying” and older artists from being “down to earth.” Young artists should work on their confidence and the older ones on their humility.
+209|Ray Bradbury|American writer|Ask for no guarantees ask for no security there never was such an animal. And if there were, it would be related to the great sloth, which hangs upside down in a tree all day every day, sleeping its life away.
+210|André Gide|French writer|One does not discover new lands<br>without consenting to lose sight of<br>the shore for a very long time.
+211|Vincent van Gogh|Dutch painter|Just dash something down if you see a blank canvas staring at you with a certain imbecility. You do not know how paralyzing it is, that staring of a blank canvas, which says to the painter: you don’t know anything.
+212|David Mamet|American playwright|In a world we find terrifying, we ratify<br>that which doesn’t threaten us.
+213|Mike Myers|Canadian actor|I still believe that at any time the no-<br>talent police will come and arrest me.
+214|Georgia O’Keeffe|American painter|I always have a curious sort of feeling about some of my things—I hate to show them—I am perfectly inconsistent about it—I am afraid people won’t understand—and I hope they won’t—and am afraid they will.
+215|John Steinbeck|American writer|We spend our time searching for<br>security and hate it when we get it.
+216|Tennessee Williams|American playwright|Oh, you weak, beautiful people who give<br>up with such grace. What you need is<br>someone to take hold of you—gently, with<br>love, and hand your life back to you.
+217|Pierre Alechinsky|Belgian artist|When I paint, I liberate monsters … They are the manifestations of all the doubts, searches, and groping for meaning and expression which all artists experience … One does not choose the content one submits to it.
+218|Michelangelo|Italian artist|I am no artist—please come and help me.
+219|Claude Monet|French painter|I still don’t know where I am<br>going to sleep tomorrow.
+220|Diane Arenberg|American artist|Being true to yourself is what feeds<br>creativity, not self-doubt and criticism.
+221|William Blake|English poet|If the Sun and Moon should ever<br>doubt, they’d immediately go out.
+222|Thomas Carlyle|Scottish writer|Doubt, of whatever kind, can be ended<br>by action alone.
+223|Kahlil Gibran|Lebanese-American writer and artist|Doubt is a pain too lonely to know<br>that faith is his twin brother.
+224|Christian Nestell Bovee|American author|Doubt whom you will<br>but never yourself.
+225|Edgar Degas|French artist|I felt so insufficiently equipped, so unprepared, so weak, and at the same time it seemed to me that my reflections on art were correct. I quarreled with all the world and with myself.
+226|Paul Gauguin|French artist|What still concerns me the most is: am I<br>on the right track am I making progress<br>am I making mistakes in art?
+227|Ernst Haas|Austrian artist|Every work of art has its necessity find out your very own. Ask yourself if you would do it if nobody would ever see it, if you would never be compensated for it, if nobody ever wanted it. If you come to a clear “yes” in spite of it, then go ahead and don’t doubt it anymore.
+228|Marc Chagall|Russian-French artist|But perhaps my art is the art of a lunatic,<br>I thought, mere glittering quicksilver, a<br>blue soul breaking in upon my pictures.
+229|Robert Hughes|Australian art critic and writer|The greater the artist, the greater the<br>doubt. Perfect confidence is given to the<br>less talented as a consolation prize.
+230|Wassily Kandinsky|Russian painter|Doubts must be resolved alone within<br>the soul. Otherwise one would profane<br>one’s own powerful solution.
+231|Suzanne Partridge|English painter|As long as I keep getting rejected, I know<br>I must be doing something right.
+232|Dean Koontz|American author|I think it’s the people who have no doubt<br>that every word they put down is gold<br>that probably don’t write very well.
+233|William Shakespeare|English writer|Our doubts are traitors and make us lose the<br>good we oft might win by fearing to attempt.
+234|Leonardo da Vinci|Italian artist|That painter who has no doubts will achieve little.
+235|T. S. Eliot|American-born English poet|Anxiety is the<br>handmaiden of creativity.
+236|Marney Ward|Canadian artist|The analytical left brain not only breaks the painting into its components it is also the doubter, the inhibitor, and the one that doesn’t want to ruin the painting.
+237|Neil Welliver|American artist|Doubt is a central factor all the time. There’s always the doubt: What the hell am I doing out here in the middle of the woods, all alone, painting?
+238|John Constable|English painter|I know very well what I am about and that my skies have not been neglected, though they often failed in execution—and often no doubt from over-anxiety about them …
+239|Henry Wadsworth Longfellow|American poet|Into each life some rain must fall some<br>days must be dark and dreary.
+240|Henry Wadsworth Longfellow|American poet|He that respects himself is safe from others<br>he wears a coat of mail that none can pierce.
+241|Claude Monet|French painter|No one but myself knows the anxiety I go<br>through and the trouble I give myself to<br>finish paintings which do not satisfy me<br>and seem to please so very few others.
+242|Joyce Cary|Anglo-Irish writer and artist|What I say to an artist is, “When<br>you can’t paint—paint.”
+243|Luc Tuymans|Belgian artist|When I start to paint, it is real agony. I get nervous. The day before, I am already working up to it. Then I get to the studio and, once the image starts to emerge and come together, pleasure kicks in. And then you can see things that no other person can see.
+244|Theodore Roethke|American poet|Those who are willing to be vulnerable<br>move among mysteries.
+245|Jane Champagne|Canadian painter|Instead of “What ever made me think I<br>was a painter?” change it to “What made<br>me a painter? Let me count the ways.”
+246|William Faulkner|American writer|People need trouble—a little frustration to sharpen the spirit on, toughen it. Artists do I don’t mean you need to live in a rat hole or gutter, but you have to learn fortitude, endurance. Only vegetables are happy.
+247|Scott Adams|American cartoonist|Most success springs from an obstacle or failure. I became a cartoonist largely because I failed in my goal of becoming a successful executive.
+248|Coco Chanel|French fashion designer|Success is often achieved by those who<br>don’t know that failure is inevitable.
+249|Edward Dowden|Irish poet|Sometimes a noble failure serves the world<br>as faithfully as a distinguished success.
+250|George Eliot|English writer|Failure after long perseverance is much<br>grander than never to have a striving<br>good enough to be called a failure.
+251|Ralph Waldo Emerson|American writer|The line between failure and success is so fine that we scarcely know when we pass it—so fine that we often are on the line and do not know it.
+252|Vincent van Gogh|Dutch painter|I’ve failed again\!
+253|Napoleon Hill|American writer|When defeat comes, accept it as a signal that your plans are not sound, rebuild those plans, and set sail once more toward your coveted goal.
+254|Audrey Flack|American artist|If you can’t paint, paint big.
+255|Jane Fulton Alt|American photographer|Whether or not your work was included<br>in this show should not discourage you<br>from continuing your artistic pursuits.
+256|Ray Bradbury|American writer|You have to know how to accept<br>rejection and reject acceptance.
+257|Jane Champagne|Canadian painter|The effects of rejection can either kill<br>your muse or change your life.
+258|Harley Brown|American artist|Do not take rejection personally … Every time you feel you’ve failed or have bruised feelings, crowd those thoughts out of your head with a personal moment that works … The art world is a series of daily adjustments …
+259|Pablo Picasso|Spanish artist|I begin with an idea and then it<br>becomes something else.
+260|Paul Klee|German and Swiss painter|A line is a dot that went for a walk.
+261|Wassily Kandinsky|Russian painter|I applied streaks and blobs of colors onto the canvas with a palette knife, and I made them sing with all the intensity I could …
+262|Andy Goldsworthy|English sculptor|The essence of drawing is the line exploring space.
+263|Joan Miró|Spanish artist|Apply colors like words that shape<br>poems, like notes that shape music.
+264|Wassily Kandinsky|Russian painter|Everything starts from a dot.
+265|Vincent van Gogh|Dutch painter|It is not the language of painters but the language of nature which one should listen to the feeling for the things themselves, for reality, is more important than the feeling for pictures.
+266|Leonardo da Vinci|Italian artist|Simplicity is the ultimate sophistication.
+267|Wassily Kandinsky|Russian painter|Color is the keyboard<br>the eyes are the harmonies<br>the soul is the piano with<br>many strings. The artist is<br>the hand that plays, touching<br>one key or another, to cause<br>vibrations in the soul.
+268|G. K. Chesterton|English writer|Art, like morality, consists of<br>drawing the line somewhere.
+269|Ray Bradbury|American writer|When you write—explode—fly apart—<br>disintegrate\! Then give time enough to<br>think, cut, rework, and rewrite.
+270|Ralph Waldo Emerson|American writer|Pictures must not be too picturesque.
+271|Pablo Picasso|Spanish artist|There is no abstract art. You must always<br>start with something. Afterward you<br>can remove all traces of reality.
+272|Pablo Casals|Spanish cellist and conductor|The most perfect technique is that<br>which is not noticed at all.
+273|Gardner Cox|American painter|I do a bale of sketches, one eye, a piece of hair. A<br>pound of observation, then an ounce of painting.
+274|T. S. Eliot|American-born English poet|Immature poets imitate mature poets steal.
+275|Alexander Liberman|Russian-American artist|All art is solitary and the studio is a torture area.
+276|Henri Matisse|French artist|It is only after years of preparation that<br>the young \[artist\] should touch color—<br>not color used descriptively, that is, but<br>as a means of personal expression.
+277|Pablo Picasso|Spanish artist|For a long time I limited myself to one<br>color—as a form of discipline.
+278|Paul Gauguin|French artist|With practice the craft will come almost of<br>itself, in spite of you and all the more easily if<br>you think of something besides technique.
+279|Claude Monet|French painter|I’ve always refused requests, even from friends,<br>to employ a technique I know nothing about.
+280|John Sloan|American artist|Find your own technique.
+281|Pearl S. Buck|American writer|I don’t wait for moods. You accomplish<br>nothing if you do that. Your mind must<br>know it has to get down to work.
+282|Johann Wolfgang von Goethe|German writer|The right man is the one who seizes the moment.
+283|Charles Baudelaire|French poet|Nothing can be done except little by little.
+284|Robert Henri|American painter|Your painting is the marking of your progression into nature, a sensation of something you see way beyond the two pretty colors over there. Don’t stop to paint the material, but push on to give the spirit.
+285|Robert Hughes|Australian art critic and writer|In art there is no progress, only<br>fluctuations of intensity.
+286|Rainer Maria Rilke|Bohemian-Austrian poet|Allow your judgments a silent, undisturbed development, which, like all progress, must come from deep within and cannot be forced or hastened.
+287|Kazuaki Tanahashi|Japanese writer and calligrapher|A painting works only on the edge of not<br>working. Then what is ungraspable comes near.
+288|Marc Chagall|Russian-French artist|Great art picks up where nature ends.
+289|Michelangelo|Italian artist|A man paints with his brains<br>and not with his hands.
+290|Leonardo da Vinci|Italian artist|Obstacles cannot crush me<br>Every obstacle yields to<br>stern resolve. He who is<br>fixed to a star does not<br>change his mind.
+291|Ansel Adams|American photographer|You don’t take a photograph, you make it.
+292|Rembrandt van Rijn|Dutch painter|A painting is finished when the<br>artist says it is finished.
+293|Jackson Pollock|American painter|When I am in my painting, I am not aware of what I’m doing. It is only after a sort of “get acquainted” period that I see what I have been about. I have no fears about making changes, destroying the image, etc., because the painting has a life of its own. I try to let it come through.
+294|Zoe Benbow|English painter|Technique isn’t enough on its own—emotion has to come through—but when you’ve got the technique sewn up, that’s one thing you don’t have to worry about.
+295|Robert Bissett|American artist|The beginning painter is focused on learning technique with the goal of accuracy. Then comes the realization that composition and design are more important.
+296|Sergei Bongart|Ukrainian painter|Learn technique have full command to the extent of not being conscious of how it is done. When craftsmanship has been developed, you are free to create … technique will give way to expression\!
+297|Harley Brown|American artist|Consider diversity of techniques within your<br>paintings. Pick and choose your areas and<br>then go with gusto … or refinement.
+298|Robert Olen Butler|American writer|The only craft and technique you have legitimate access to is the craft and technique you forgot, that has dissolved itself into the unconscious … because you have learned it so well you have forgotten it.
+299|Alvaro Castagnet|Spanish painter|Technique should be entirely subordinate<br>to the demands of your emotions.
+300|George Carlson|American artist|Focusing totally on technique, you lose the essence and power of simplicity … The other extreme is just as bad you see it in a lot of Modern works, where the concept is more important than the technique, resulting in very poor craftsmanship.
+301|Chen Chi|Chinese painter|The artist can know all the technique in the world,<br>but if he feels nothing, it will mean nothing.
+302|Dean Taylor Drewyer|American artist|The human binocular and flickering<br>vision, coupled with the precious<br>imperfection of the human hand is where<br>art lives—there are no shortcuts.
+303|Joe Garcia|American painter|The fun of painting is technique: loose opposite tight, texture versus wash, light against dark.
+304|William Harvey|English engraver and designer|I want to paint as though my technique were invisible. I want my effort to be in the form and texture created by light, not brushstrokes.
+305|Trevor Leggett|English writer and martial artist|First one specializes in technique, until he comes to the end of technique and bases everything on the heart itself—this is the best way of practice.
+306|Claude Monet|French painter|Techniques<br>vary art stays the same: it is<br>a transposition of nature at<br>once forceful and sensitive.
+307|Cornelis le Mair|Dutch painter|People often think that technical perfection has something to do with fine painting … Rembrandt, whose technique fascinated all great masters after a time, was said to have painted with a tarbrush. So he was not exactly a fine painter.
+308|Kazimir Malevich|Russian painter|Everywhere there is craft and technique<br>everywhere there is artistry and form.<br>Art itself, technique, is ponderous and<br>clumsy, and because of its awkwardness<br>it obstructs that inner element …
+309|Charles Movalli|American painter|The painterly painter avoids the how-<br>to approach, suspicious as ever that<br>technique will obscure his or her vision.
+310|John Newberry|English painter|My technique, starting with a quick outline in pencil, is designed to record first impressions, with no time for second thoughts.
+311|Kimon Nicolaïdes|Greek-American artist|Committing oneself to a technique<br>causes stagnation.
+312|Walter J. Phillips|Canadian artist|When technique is obtrusive it becomes mere mannerism, a conscious striving for effect. It is only a means to an end—the manner of putting paint to paper. It hardly embraces the expressive side of painting.
+313|Jackson Pollock|American painter|Technique is just a means of<br>arriving at a statement.
+314|Sandy Sandy|American artist|It takes a long time to become<br>loose without losing it.
+315|Randall Sexton|American painter|Theories<br>methods, and formulas aid in<br>the making of art, but each<br>artist’s technique comes more<br>from his or her personality<br>than anything else.
+316|Nelson Shanks|American painter|If you find yourself with a weakness,<br>attack it … don’t develop a technique<br>that avoids your weaknesses.
+317|Daisetz Teitaro Suzuki|Japanese writer|Technical knowledge is not enough.<br>One must transcend techniques<br>so that art becomes an artless art,<br>growing out of the unconscious.
+318|Dan Thompson|American artist|No matter what techniques I use,<br>I still want to go after the eternal,<br>meaningful aspects of painting.
+319|Andrew Wyeth|American artist|To be interested solely in technique would<br>be a very superficial thing to me.
+320|Mary Todd Beam|American painter|Painting around an object will help<br>you look at your subjects in a new<br>way—as shapes and spaces …
+321|Paul Brandford|English artist|Lines as edges kill a sense of form.
+322|Jean-Baptiste-Camille Corot|French painter|The most important things in a painting<br>are Form and Value. Color comes<br>last—like a friend you welcome.
+323|Harvey Dunn|American painter|Form is expressed in the light tones by dark<br>accents, in the dark tones by light accents.
+324|Francisco de Goya|Spanish painter|I see only forms that are lit up and forms that<br>are not. There is only light and shadow.
+325|Elliott Green|American artist|If a form isn’t right, if it’s erased, the<br>correction has meaning. It’s the process<br>of the mind, moving and making. The<br>form didn’t drop from outer space.
+326|Wassily Kandinsky|Russian painter|The artist must have something to say, for<br>mastery over form is not his goal but rather<br>the adapting of form to its inner meaning.
+327|Ellsworth Kelly|American artist|I’m not interested in edges. I’m interested in the mass and color, the black and white. The edges happen because the forms get as quiet as they can be. I want the masses to perform. When I work with forms and colors, I get the edge …
+328|Henri Laurens|French sculptor|My aim is for<br>ripeness of form. I want to<br>make my forms so full, so<br>juicy, that one could add<br>nothing more to them.
+329|Robert Motherwell|American painter|If you give a child something very complex to paint, such as a bouquet of flowers or a natural landscape, if he is very good, eventually he will get back—like Cézanne—to the essential forms of what he sees.
+330|Pablo Picasso|Spanish artist|The secret of many of my deformations—which many people do not understand—is that there is an interaction, an intereffect between the lines in a painting: one line attracts the other and at the point of maximum attraction the lines curve in toward the attracting point and form is altered.
+331|William F. Reese|American artist|No matter to what degree you carry the detail, it should always be secondary to the pattern. The form is what is important, not the story.
+332|John Sloan|American artist|Draw with the brush. Carve the form. Don’t be carried away by subtleties of modeling and nice pigmentation at the expense of losing the form.
+333|Deon Venter|South African artist|I have to be clear of the form before<br>I can really work out my problems<br>there in terms of composition.
+334|Marion Boddy-Evans|Scottish painter|There’s no rule to say you must use only one<br>style in a painting. It’s entirely up to you. You’re<br>the artist you’re the boss it’s your painting.
+335|Scott Menaul|American artist|Style is simply the adoption of an arbitrary<br>set of creative rules that one chooses from to<br>express oneself. One develops style as selected<br>preferences for each creative choice.
+336|Frank Lloyd Wright|American architect|The mother art is architecture. Without<br>an architecture of our own, we have<br>no soul of our own civilization.
+337|Le Corbusier|French architect|Architecture is the learned game, correct and<br>magnificent, of forms assembled in the light.
+338|Ludwig Mies van der Rohe|German-American architect|Architecture starts when you carefully put<br>two bricks together. There it begins.
+339|Louis Kahn|American architect|Architecture is the reaching out for the truth.
+340|Louis Sullivan|American architect|Our architecture reflects truly as a mirror.
+341|Walter Gropius|German architect|A modern, harmonic, and lively architecture<br>is the visible sign of an authentic democracy.
+342|Frank Lloyd Wright|American architect|A great architect is not made by way of<br>a brain nearly so much as he is made by<br>way of a cultivated, enriched heart.
+343|John Ruskin|English art critic|Architecture is the work of nations.
+344|Christopher Wren|English architect|Architecture<br>aims at eternity.
+345|Victor Hugo|French writer|Architecture has recorded the great<br>ideas of the human race. Not only every<br>religious symbol, but every human<br>thought has its page in that vast book.
+346|Ralph Erskine|Swedish architect|The job of buildings is to improve<br>human relations.
+347|Samuel Taylor Coleridge|English writer|The principle of Gothic architecture<br>is infinity made imaginable.
+348|Constantin Brancusi|Romanian sculptor|Architecture is inhabited sculpture.
+349|Henry Wadsworth Longfellow|American poet|Ah, to build, to build\! That is the<br>noblest of all the arts.
+350|Walter Gropius|German architect|Architecture begins where engineering ends.
+351|Michael Graves|American architect|Architecture is not all about the design<br>of the building and nothing else it is<br>also about the cultural setting and<br>the ambience, the whole affair.
+352|Louis Sullivan|American architect|Form ever follows function.
+353|Le Corbusier|French architect|To create architecture is to put in order. Put<br>what in order? Function and objects.
+354|Roy Lichtenstein|American artist|I don’t think of form as a kind of architecture. The architecture is the result of the forming. It is the kinesthetic and visual sense of position and wholeness that puts the thing into the realm of art.
+355|Maya Lin|American architect and artist|Even though I build buildings and I pursue my architecture, I pursue it as an artist. I deliberately keep a tiny studio. I don’t want to be an architectural firm. I want to remain an artist.
+356|Arne Jacobsen|Danish architect|If a building becomes architecture, then it is art.
+357|Guillaume Apollinaire|French writer|A structure becomes architectural, and<br>not sculptural, when its elements no longer<br>have their justification in nature.
+358|Helmut Jahn|German-American architect|I strive for an architecture from which<br>nothing can be taken away.
+359|John Ruskin|English art critic|An architect should live as little in cities as a painter. Send him to our hills, and let him study there what nature understands by a buttress, and what by a dome.
+360|Kenneth Clark|English art critic|If I had to say which was telling the truth<br>about society, a speech by a Minister of<br>Housing or the actual buildings put up in<br>his time, I should believe the buildings.
+361|Philip Johnson|American architect|All architects want to live beyond their deaths.
+362|Ernest Dimnet|French writer|Architecture, of all the arts, is the one that acts<br>most slowly but the most surely on the soul.
+363|Frank Gehry|Canadian-American architect|Architecture should speak of its time and<br>place, but yearn for timelessness.
+364|Rembrandt van Rijn|Dutch painter|Painting is the<br>grandchild of nature.<br>It is related to God.
+365|Simonides|ancient Greek poet|Painting is silent poetry,<br>and poetry is painting that speaks.
+366|Pablo Picasso|Spanish artist|There are painters who transform the sun to a yellow spot, but there are others who, with the help of their art and their intelligence, transform a yellow spot into the sun.
+367|Ambrose Bierce|American writer|Painting: The art of protecting flat surfaces from<br>the weather and exposing them to the critic.
+368|John Singer Sargent|American painter|Every time I paint a portrait I lose a friend.
+369|Edmond de Goncourt|French writer|A painting in a museum hears more ridiculous<br>opinions than anything else in the world.
+370|Vincent van Gogh|Dutch painter|I experience a period of frightening clarity in those moments when nature is so beautiful. I am no longer sure of myself, and the paintings appear as in a dream.
+371|Pablo Picasso|Spanish artist|Painting is just another way of keeping a diary.
+372|Leonardo da Vinci|Italian artist|A good painter is to paint two main things,<br>men and the working of man’s mind.
+373|Janice Tanton|Canadian artist|There are many things one thinks about<br>in a painting. Often, it’s how to handle<br>your chosen medium and how to best<br>reveal the light in a three-dimensional<br>form on a two-dimensional surface.
+374|Georges Braque|French painter and sculptor|Painting is the nail to which I fasten my ideas.
+375|Steven Wright|American actor|I’ve been doing a lot of abstract painting<br>lately, extremely abstract. No brush, no<br>paint, no canvas, I just think about it.
+376|Jackson Pollock|American painter|Every good painter paints what he is.
+377|Michelangelo|Italian artist|Good painting is the kind that<br>looks like sculpture.
+378|William Cullen Bryant|American poet|A sculptor<br>wields the chisel, and<br>the stricken marble grows<br>to beauty.
+379|Henry Wadsworth Longfellow|American poet|Sculpture is more divine, and more like Nature,<br>That fashions all her works in high relief,<br>And that is Sculpture.<br>This vast ball, the Earth,<br>Was molded out of clay, and baked in fire<br>Men, women, and all animals that breathe<br>Are statues, and not paintings.
+380|Pablo Picasso|Spanish artist|Sculpture is the art of the intelligence.
+381|Benvenuto Cellini|Italian artist|I say that the art of sculpture is eight<br>times as great as any other art based on<br>drawing, because a statue has eight views<br>and they must all be equally good.
+382|Samuel Johnson|English writer|A fellow will hack half a year at a block of marble to make something in stone that hardly resembles a man. The value of statuary is owing to its difficulty. You would not value the finest head cut upon a carrot.
+383|Auguste Rodin|French sculptor|As paradoxical as it may seem, a great sculptor is as much a colorist as the best painter, or rather the best engraver. He plays so skillfully with all the resources of relief, he blends so well the boldness of light with the modesty of shadow, that his sculptures please one as much as the most charming etchings.
+384|Leonardo da Vinci|Italian artist|Sculpture, a very noble art, is one that does not in the execution require the same supreme ingenuity as the art of painting, since in two most important and difficult particulars, in foreshortening and in light and shade … the painter has to invent a process, \[whereas\] sculpture is helped by nature.
+385|Henri Matisse|French artist|I did my sculpture as a painter. I did not work as a sculptor.
+386|Henry Moore|English artist|A piece of sculpture can have a hole through<br>it and not be weakened if the hole is of a<br>studied size, shape, and direction.
+387|William M. Dupree|American sculptor|There is no substitute for feeling the stone, the metal, the plaster, or the wood in the hand to feel its weight to feel its texture to struggle with it in the world rather than in the mind alone.
+388|Aeschylus|ancient Greek playwright|Bronze is the mirror of the<br>form wine, of the heart.
+389|Fritz Wotruba|Austrian sculptor|A hole in the block of a piece of sculpture<br>is in most cases nothing but the expression<br>of impotence and weakness.
+390|Anish Kapoor|Indian-English sculptor|Sculpture<br>occupies the same space<br>as your body.
+391|Jean Arp|German-French \(Alsatian\) artist|The essence of a sculpture must enter on tip-<br>toe, as light as animal footprints on snow.
+392|Ralph Waldo Emerson|American writer|As picture teaches the coloring, so<br>sculpture the anatomy of form.
+393|Michelangelo|Italian artist|A great sculpture can roll down<br>a hill without breaking.
+394|Auguste Rodin|French sculptor|Sculpture is the art of the<br>hole and the lump.
+395|Hap Hagood|American sculptor|Within every block of wood and stone,<br>there dwells a spirit, waiting to be released.<br>Direct carving is a way of freeing the spirit—<br>my own and that of the stone or wood.
+396|Michelangelo|Italian artist|The stone unhewn and cold<br>Becomes a living mold.<br>The more the marble wastes,<br>The more the statue grows.
+397|Gianlorenzo Bernini|Italian artist|There are two devices which can help the sculptor to judge his work: one is not to see it for a while. The other … is to look at his work through spectacles which will change its color and magnify or diminish it, so as to disguise it somehow to his eye, and make it look as though it were the work of another.
+398|Auguste Rodin|French sculptor|Where did I learn to understand sculpture? In the woods by looking at the trees, along roads by observing the formation of clouds, in the studio by studying the model, everywhere except in the schools.
+399|Maya Angelou|American writer|The idea is to<br>write it so that people hear it<br>and it slides through the brain<br>and goes straight to the heart.
+400|Isaac Asimov|American writer|You must keep sending work out you must never let a manuscript do nothing but eat its head off in a drawer. You send that work out again and again, while you’re working on another one.
+401|W. H. Auden|Anglo-American poet|Some writers confuse authenticity, which they ought always to aim at, with originality, which they should never bother about.
+402|Robert Benchley|American writer and humorist|Great literature must spring from an upheaval in the author’s soul. If that upheaval is not present, then it must come from the works of any other author which happens to be handy and easily adapted.
+403|Isaac Babel|Russian writer|No steel can pierce the human heart so chillingly<br>as a period put just at the right place.
+404|Darby Bannard|American painter|Writing about art is only useful when<br>it leads to the experience of art.
+405|Saul Bellow|Canadian-born American writer|A novel is balanced between a few true<br>impressions and the multitude of false ones<br>that make up most of what we call life.
+406|Charles Baudelaire|French poet|Always be a poet, even in prose.
+407|Jorge Luis Borges|Argentine writer|Writing is nothing more than a guided dream.
+408|Lord Byron|English poet|A small drop of ink makes thousands,<br>perhaps millions … think.
+409|William Wordsworth|English poet|Every great and original writer, in proportion<br>as he is great and original, must himself create<br>the taste by which he is to be relished.
+410|Berenice Abbott|American photographer|Photography can never grow up if it<br>imitates some other medium. It has<br>to walk alone it has to be itself.
+411|Virginia Woolf|English writer|Literature<br>is strewn with the wreckage<br>of men who have minded<br>beyond reason the opinions<br>of others.
+412|Mark Twain|American writer|There are some books that refuse to be written. They stand their ground year after year and will not be persuaded. It isn’t because the book is not there and worth being written—it is only because the right form of the story does not present itself.
+413|Henri Cartier-Bresson|French photographer|A photograph is neither taken nor seized by force. It offers itself up. It is the photo that takes you. One must not take photos.
+414|Sam Abell|American photographer|Whether working or not, photographers are looking, seeing, and thinking about what they see, a habit that is both a pleasure and a problem, for we seldom capture in a single photograph the full expression of what we see and feel.
+415|Diane Arbus|American photographer|A photograph is a secret about a secret.<br>The more it tells you, the less you know.
+416|Ambrose Bierce|American writer|Photograph: A picture painted by the<br>sun without instruction in art.
+417|Henri Cartier-Bresson|French photographer|To me, photography is the simultaneous<br>recognition, in a fraction of a second,<br>of the significance of an event.
+418|Dorothea Lange|American photographer|The good photograph is not the object the consequences of the photograph are the objects. So that no one would say, how did you do it, where did you find it, but they would say that such things could be.
+419|Todd Plough|American artist|A photo must make the viewer feel all the senses with one.
+420|Susan Sontag|American writer|A photograph is not only an image as a painting is an image, an interpretation of the real it is also a trace, something directly stenciled off the real, like a footprint or a death mask.
+421|Henri Cartier-Bresson|French photographer|For me, the camera is a sketchbook, an instrument of intuition and spontaneity, the master of the instant which, in visual terms, questions and decides simultaneously.
+422|Ernst Haas|Austrian artist|There is only you and your camera. The limitations in your photography are in yourself, for what we see is what we are.
+423|Kitty Wallis|American artist|In the same way the karate practitioner must aim through the block to break it, the artist must aim through the photo to the subject to find the elements that can barely be felt.
+424|Edith Wharton|American writer|Art is on the side of the oppressed. Think before you shudder at the simplistic dictum and its heretical definition of the freedom of art. For if art is freedom of the spirit, how can it exist within the oppressors?
+425|E. M. Forster|English writer|Works of art, in my opinion, are the only objects in the material universe to possess internal order, and that is why, though I don’t believe that only art matters, I do believe in Art for Art’s sake.
+426|Louis Armstrong|American musician|What we play is life.
+427|Beverly Sills|American singer|Art is the signature of civilizations.
+428|Eric Gill|English sculptor|Art is skill that is the first meaning of the word.
+429|Auguste Rodin|French sculptor|Art is contemplation. It is the pleasure<br>of the mind which searches into nature<br>and which there divines the spirit of<br>which Nature herself is animated.
+430|Daniel Pinkwater|American illustrator|I believe it is impossible to make sense of<br>life in this world except through art.
+431|Constantin Brâncus¸i|Romanian sculptor|What is real is not the external form, but<br>the essence of things … it is impossible<br>for anyone to express anything essentially<br>real by imitating its exterior surface.
+432|Georges Braque|French painter and sculptor|The function of Art is to disturb.
+433|Friedrich Nietzsche|German writer|Art is essentially the affirmation, the<br>blessing, and the deification of existence.
+434|George Bernard Shaw|Irish playwright|Without art, the crudeness of reality<br>would make the world unbearable.
+435|Henry Miller|American playwright|Art teaches nothing<br>except the significance of life.
+436|George Bernard Shaw|Irish playwright|You use a glass mirror to see your face<br>you use works of art to see your soul.
+437|Robert Motherwell|American painter|Art is much less important than life,<br>but what a poor life without it.
+438|Robert Motherwell|American painter|Wherever art appears, life disappears.
+439|Leonardo da Vinci|Italian artist|Art is the Queen of all sciences, communicating<br>knowledge to all the generations of the world.
+440|Jaune Quick-to-See Smith|Native American artist|Art should reveal the unknown, to those<br>who lack the experience of seeing it.
+441|Keith Haring|American artist|The best reason to paint is that there is no reason to paint ... I’d like to pretend that I’ve never seen anything, never read anything, never heard anything ...<br>and then make something ... Every time I make something, I think about the people who are going to see it and every time I see something, I think about the person who made it ... Nothing is important ... so everything is important.
+442|René Magritte|Belgian artist|Art evokes the mystery without which the<br>world would not exist.
+443|Roy Adzak|English photographer and sculptor|Good art is not what it looks like,<br>but what it does to us.
+444|Roy Lichtenstein|American artist|Art doesn’t transform. It just plain forms.
+445|Friedrich Nietzsche|German writer|There is one thing one has to have: either a<br>soul that is cheerful by nature, or a soul made<br>cheerful by work, love, art, and knowledge.
+446|Curtis Verdun|American painter|Art is what delineates the technically correct<br>dancer from the dancer who has skill and passion\!
+447|Ralph Waldo Emerson|American writer|Never lose an opportunity of seeing anything<br>beautiful, for beauty is God’s handwriting.
+448|Vincent van Gogh|Dutch painter|I want to touch people with my art. I want them<br>to say “he feels deeply he feels tenderly.”
+449|Mirka Mora|Australian artist|Art is the child of imagination and gives life.
+450|Michelangelo|Italian artist|The true work of art is but a shadow<br>of the divine perfection.
+451|Paul Klee|German and Swiss painter|The more horrifying this world becomes,<br>the more art becomes abstract.
+452|Thomas Merton|American writer|Art enables us to find ourselves and<br>lose ourselves at the same time.
+453|Vincent van Gogh|Dutch painter|As a suffering creature, I cannot do without<br>something greater than I—something<br>that is my life—the power to create.
+454|Fyodor Dostoevsky|Russian writer|Beauty<br>will save the world.
+455|Albert Camus|French writer|We have art in order not to die of life.
+456|Robert Motherwell|American painter|It may be that the deep necessity of art<br>is the examination of self-deception.
+457|Pablo Picasso|Spanish artist|Art washes from the soul the dust of everyday life.
+458|Twyla Tharp|American dancer and choreographer|Art is the closest thing to running<br>away, without ever leaving home.
+459|Yann Martel|Canadian writer|If we, citizens, do not support our artists,<br>then we sacrifice our imagination on the altar<br>of crude reality and we end up believing in<br>nothing and having worthless dreams.
+460|Michelangelo|Italian artist|My soul can find no staircase to heaven<br>unless it be through Earth’s loveliness.
+461|Albert Camus|French writer|A person’s life purpose is nothing more than to rediscover, through the detours of art, or love, or passionate work, those one or two images in the presence of which his heart first opened.
+462|James G. Huneker|American writer and critic|Great art is an instant arrested in eternity.
+463|Paul Klee|German and Swiss painter|Art does not reproduce the visible;<br>rather, it makes visible.
+464|Wassily Kandinsky|Russian painter|There is no must in art because art is free.
+465|Giorgio de Chirico|Greek-born Italian artist|To become truly immortal, a work of art must escape all human limits: logic and common sense will only interfere. But once these barriers are broken, it will enter the realms of childhood visions and dreams.
+466|Paul Cézanne|French artist|What is one to think of those fools who tell<br>one that the artist is always subordinate to<br>nature? Art is a harmony parallel with nature.
+467|E. M. Forster|English writer|To make us feel small in the right way<br>is a function of art; men can only make<br>us feel small in the wrong way.
+468|Theodore Dreiser|American writer|Art is the stored honey of the human soul,<br>gathered on wings of misery and travail.
+469|Stella Adler|American actress|Life beats down<br>and crushes the soul,<br>and art reminds you that<br>you have one.
+470|John Updike|American writer|What art offers is space—a certain<br>breathing room for the spirit.
+471|Georges Rouault|French painter|For me, painting is a way to forget life. It<br>is a cry in the night, a strangled laugh.
+472|Johann Wolfgang von Goethe|German writer|There is no surer method of evading the<br>world than by following Art, and no surer<br>method of linking oneself to it than by Art.
+473|John Cheever|American writer|Art is the triumph over chaos.
+474|Jean Paul|German writer|Art is indeed not the bread but the wine of life.
+475|Lincoln Steffens|American writer|Art is like a border of flowers along<br>the course of civilization.
+476|Elbert Hubbard|American writer|Art is not a thing; it is a way.
+477|Aristotle|ancient Greek writer and philosopher|The aim of art is to represent not<br>the outward appearance of things,<br>but their inward significance.
+478|Chinua Achebe|Nigerian writer|Art is man’s constant effort to create<br>for himself a different order of reality<br>from that which is given to him.
+479|Eric Fischl|American artist|I think of art as a glue, a cultural and social glue. It’s one of the means that has served to show us the things we believe in and the things we celebrate it has served to reinforce our relationship to each other.
+480|Aristotle|ancient Greek writer and philosopher|Art completes what nature cannot<br>bring to finish. The artist gives us<br>knowledge of nature’s unrealized ends.
+481|W. H. Auden|Anglo-American poet|Art is our chief means of breaking<br>bread with the dead.
+482|Honoré de Balzac|French writer|What is art? Nature concentrated.
+483|Daniel Bell|American writer|Art is an end in itself its values are intrinsic.
+484|Philippe Benichou|French-American artist|Art is who we are. It facilitates self-<br>realization in everyone.
+485|Louise Bourgeois|French-American artist|Art is a guarantee of sanity. That is the<br>most important thing I have said.
+486|Bertolt Brecht|German poet and playwright|Art is not a mirror held up to reality, but<br>a hammer with which to shape it.
+487|Edward G. Bulwer-Lytton|English politician and writer|Art is the effort of man to express the ideas which nature suggests to him of a power above nature, whether that power be within the recesses of his own being, or in the Great First Cause of which nature, like himself, is but the effect.
+488|Charles Philip Brooks|American painter|True art is undeniable, and it is<br>a gift for all humanity.
+489|James Dickey|American poet|I once had the nerve to ask Picasso the<br>question, “What is art?” He answered, “Art<br>is a lie which makes us see the truth.”
+490|Ron Gang|Israeli artist|Art is a language that can transcend<br>words. It can convey some of the nonverbal<br>consciousness of the artist to the viewer.
+491|Remy de Gourmont|French writer|Art is the flower of life<br>and, as seed, it gives back life.
+492|Kahlil Gibran|Lebanese-American writer and artist|Art is a step from what is obvious and well<br>known toward what is arcane and concealed.
+493|Jamake Highwater|American writer|Art is a staple of mankind … so urgent, so<br>utterly linked with the pulse of feeling that<br>it becomes the singular sign of life when<br>every other aspect of civilization fails.
+494|Aldous Huxley|English writer|Art is one of the means whereby man seeks<br>to redeem a life which is experienced as<br>chaotic, senseless, and largely evil.
+495|William Holman Hunt|English painter|Art is love.
+496|Joris-Karl Huysmans|French novelist|Art is the only clean thing on<br>earth, except holiness.
+497|James Joyce|Irish writer|Art is the human disposition of sensible or<br>intelligible matter for an aesthetic end.
+498|Gustav Klimt|Austrian painter|Art is a line around your thoughts.
+499|Richard Kamler|American artist|Art is our one true global language. It knows no nation it favors no race and it acknowledges no class. It speaks to our need to reveal, heal, and transform. It transcends our ordinary lives and lets us imagine what is possible.
+500|Jacques Lipchitz|Lithuanian sculptor|Art is an action against death.<br>It is a denial of death.
+501|Henry Wadsworth Longfellow|American poet|Art is the child of Nature.
+502|André Malraux|French writer|All art is a revolt<br>against man’s fate.
+503|Piet Mondrian|Dutch painter|Art is not made for anybody and is,<br>at the same time, for everybody.
+504|Friedrich Nietzsche|German writer|We have art so that we may<br>not perish by the truth.
+505|Alev Oguz|Turkish artist|Art is the journey of a free soul.
+506|Amédée Ozenfant|French painter|Art is the demonstration that the<br>ordinary is extraordinary.
+507|Walter Pater|English writer|Art comes to you proposing frankly to<br>give nothing but the highest quality<br>to your moments as they pass.
+508|Marcel Proust|French writer|Only through art can we emerge from ourselves<br>and know what another person sees.
+509|Salman Rushdie|English-Indian writer|Not even the visionary or mystical experience ever lasts very long. It is for art to capture that experience, to offer it to, in the case of literature, its readers to be, for a secular, materialist culture, some sort of replacement for what the love of god offers in the world of faith.

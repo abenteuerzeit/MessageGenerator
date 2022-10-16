@@ -1,42 +1,44 @@
-function newQuote() {
-  const quotes = loadQuotes();
-  const index = Math.floor(Math.random() * quotes.length);
-  const quote = quotes[index].quote;
-  const author = quotes[index].author;
-  const role = quotes[index].role;
-  document.getElementById("quoteDisplay").innerHTML = `<p class='quote'> ${quote.replace(/(?:\r\n|\r|\n)/g, '<br>')} </p> <p class='author'> ${author} </p> <p class='role'> ${role} </p>`;
+const fs = require('fs');
+
+function newQuote(){
+    const q = getRandomQuote();
+    console.log(q);
+    return document.getElementById("quoteDisplay").innerHTML = `<p class='quote' id=${q.id};> ${q.quote} </p> <p class='author'> ${q.author} </p> <p class='role'> ${q.about} </p>`;
 }
+
+const newQuote = newQuote();
 
 function loadQuotes() {
-  return FIRST_FIVE_QUOTES;
+    const filepath = "./src/quotes.txt";
+    const data = fs.readFileSync(filepath, "utf8").split('\r\n');
+    const quotes = [];
+    for (let i = 0; i < data.length; i++) {
+        const quoteData = data[i].split("\n");
+        const element = quoteData[0].split("|");
+        const quote = {
+            id: element[0],
+            author: element[1],
+            about: element[2],
+            quote: element[3],
+            toString() {
+                return `"${this.quote.replace(/<br\s*[\/]?>/gi, " ")}"\n\t ${this.author}, ${this.about}`;
+            },
+            updateQuote(newQuote) {
+                this.quote = newQuote;
+            }
+        }
+        if (quote.id !== "") {
+            quotes.push(quote);
+        }
+    }
+    return quotes;
+}
+
+function getRandomQuote() {
+    const QUOTES = loadQuotes();
+    const index = Math.floor(Math.random() * QUOTES.length);
+    return QUOTES[index];
 }
 
 
-const FIRST_FIVE_QUOTES = [
-    {
-        quote: "Art is the\ngreatest possible\nrationalization of our\ndeepest fears, joys,\nand instincts as\nhuman beings.",
-        author: "Martha Mayer Erlebacher",
-        role: "American painter"
-    },
-    {
-        quote: "Art is the desire of a man to express\nhimself, to record the reactions of his\npersonality to the world he lives in.",
-        author: "Amy Lowell",
-        role: "American poet"
-    },
-    {
-        quote: "I believe that if it were left to artists to choose\ntheir own labels, most would choose none.",
-        author: "Ben Shahn",
-        role: "Lithuanian-American artist"
-    },
-    {
-        quote: "Let each man exercise the art he knows.",
-        author: "Aristophanes",
-        role: "Ancient Greek playwright"
 
-    },
-    {
-        quote: "When I can no longer create anything,\nI'll be done for.",
-        author: "Coco Chanel",
-        role: "French fashion designer"
-    }
-]
